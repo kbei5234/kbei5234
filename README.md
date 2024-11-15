@@ -21,4 +21,6 @@ Current Projects: I'm currently working on an AI project to predict validity of 
 
 Programming Langauges: C, C++, Python, Java, VHDL, Assembly
 
-Interests: embedded systems, digital logic, cybersecurity, machine learning
+Interests: Embedded Systems, Digital Logic, Cybersecurity, Machine Learning
+
+Clubs and Commitments: IEEE, Robotics, Digital Logic TA, Varsity Fencing
