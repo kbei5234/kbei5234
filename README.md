@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Karen Bei and I'm a junior at Tufts University studying Computer Engineering. I'm currently working on an AI project to predict validity of PCB Designs through a partnership between Break Through Tech AI at MIT and Cadence Design Systems. I'm also taking part of a cybersecurity clinic to enhance cybersecurity practices and policies of a non-profit organization. 
-
+My name is Karen Bei and I'm a junior at Tufts University studying Computer Engineering. 
+Current Projects: I'm currently working on an AI project to predict validity of PCB Designs through a partnership between Break Through Tech AI at MIT and Cadence Design Systems. I'm also taking part of a cybersecurity clinic to enhance cybersecurity practices and policies of a non-profit organization. 
+Interests: embedded systems, digital logic, cybersecurity, machine learning
