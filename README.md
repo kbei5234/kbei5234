@@ -23,6 +23,6 @@ Programming Langauges: C, C++, Python, Java, VHDL, Assembly
 
 Interests: Embedded Systems, Digital Logic, Cybersecurity, Machine Learning
 
-Clubs and Commitments: IEEE, Robotics, Digital Logic TA, Varsity Fencing
+Clubs and Commitments: IEEE, IEEE HKN (Honor Society) Robotics, Varsity Fencing
 
 Feel free to connect on LinkedIn: https://www.linkedin.com/in/karen-bei/
