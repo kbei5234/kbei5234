@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi! My name is Karen Bei and I'm a senior at Tufts University studying Computer Engineering. 
 
-**Internship Experience: **
+__Internship Experience: __
 This past summer, I interned at Thundersoft where I contributed to their accelerated relaunch plans for RubikPI. I built a procedure to demonstrate camera functionality and ran stress tests on various OS images. I leveraged my Mandarin Chinese skills to communicate ideas with my coworkers and become more involved in all the relaunch aspects. Furthermore, I designed a CNN-LSTM model to predict intoxicated states on drunk drivers that had 1.25% variation in an internship project from the automotive sector. 
 
 **Past Projects: **
