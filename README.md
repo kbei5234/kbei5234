@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Karen Bei and I'm a senior at Tufts University studying Computer Engineering. 
+Hi! My name is Karen Bei and I'm a first year electrical and computer engineering master's student at Boston University. I completed my undergrad this past May at Tufts University studying Computer Engineering. with a minor in music engineering. 
 
 **Internship Experience:**
-This past summer, I interned at Thundersoft where I contributed to their accelerated relaunch plans for RubikPI. I built a procedure to demonstrate camera functionality and ran stress tests on various OS images. I leveraged my Mandarin Chinese skills to communicate ideas with my coworkers and become more involved in all the relaunch aspects. Furthermore, in an internship project from the automotive sector, I designed a CNN-LSTM model to predict intoxicated states on drunk drivers that achieved a 1.25% variation.
+I interned at Thundersoft where I contributed to their accelerated relaunch plans for RubikPI. I built a procedure to demonstrate camera functionality and ran stress tests on various OS images. I leveraged my Mandarin Chinese skills to communicate ideas with my coworkers and become more involved in all the relaunch aspects. Furthermore, in an internship project from the automotive sector, I designed a CNN-LSTM model to predict intoxicated states on drunk drivers that achieved a 1.25% variation.
 
 **Past Projects:**
 Through Break Through Tech AI at MIT, I presented at Cadence Design Systems a CNN classification project that predicted with 92% accuracy the validity of PCB Designs. With the Tufts Cybersecurity Clinic, I also proposed two policies to our partner non-profit organization to enhance decrease their attack surface and safeguard confidential data. 
